@@ -1,5 +1,7 @@
 body {
 	background-color: black;
+	background-repeat: space;
+	background-position: center;
 	color: #55CA95;
 	text-align: center;
 	font-family:'Kavivanar', cursive;
@@ -13,9 +15,9 @@ h1 {
 	background-color: rgba(0, 0, 0, 0.8);
 	border-radius: 15px;
 	max-width: 60%;
-	font-family: 'Mrs Sheppards', cursive;
+	font-family: 'Condiment', cursive;
 	letter-spacing: 8px;
-	font-weight: 100;
+	font-weight: 00;
 	text-align: center;
 	margin: auto;
 	float: none;
